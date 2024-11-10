@@ -1,7 +1,3 @@
-Sure! Based on the code you’ve shared, here’s a template for your README file, which explains the main features of your project, how it works, and how to use it. This will be useful for anyone trying to understand or use your code.
-
----
-
 # GPT-2 Review Generation with N-Shot Prompting
 
 ## Project Overview
